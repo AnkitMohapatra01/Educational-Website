@@ -8,7 +8,7 @@ import program_icon_2 from '../Assets/program-icon-2.png'
 import program_icon_3 from '../Assets/program-icon-3.png'
 export default function Programs() {
   return (
-    <div className='programs'>
+    <div className='programs' >
       <div className="program">
         <img src={program_1} alt="" />
         <div className="caption">

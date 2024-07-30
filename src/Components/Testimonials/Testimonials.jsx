@@ -44,7 +44,7 @@ export default function Testimonials() {
                     <div className="user-info">
                         <img src={user_2} alt="" />
                         <div>
-                            <h3>william Jackson</h3>
+                            <h3>william Jackson 2</h3>
                             <span>Edusity,USA</span>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ export default function Testimonials() {
                     <div className="user-info">
                         <img src={user_3} alt="" />
                         <div>
-                            <h3>william Jackson</h3>
+                            <h3>william Jackson 3</h3>
                             <span>Edusity,USA</span>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ export default function Testimonials() {
                     <div className="user-info">
                         <img src={user_4} alt="" />
                         <div>
-                            <h3>william Jackson</h3>
+                            <h3>william Jackson 4</h3>
                             <span>Edusity,USA</span>
                         </div>
                     </div>
